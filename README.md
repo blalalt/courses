@@ -1,5 +1,12 @@
 # courses
 
+## System
+Operating Systems: Three Easy Pieces: 
+  * website: http://pages.cs.wisc.edu/~remzi/OSTEP/
+  * chinese: https://book.douban.com/subject/33463930/
+  * code: https://github.com/remzi-arpacidusseau/ostep-projects
+
+
 ## Database
 CMU-15-445/645:
 * 2019-schedule: https://15445.courses.cs.cmu.edu/fall2019/schedule.html (videos)
